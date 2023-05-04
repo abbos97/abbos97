@@ -8,11 +8,11 @@
 
 <h5>My technical skills include:</h5>
 
-<code><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40px"></code>
-<code><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="40px"></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="30px"></code>
+<code><img src="https://img2.freepng.fr/20180816/rcw/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f67bd3d6.3499284915344660385072.jpg" width="30px"></code>
 <code><img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" width="40px"></code>
-<code><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40px"></code>
-<code><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40px"></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="30px"></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="30px"></code>
 
 
 <p> Frontend technologies: HTML, CSS, JavaScript, React <br/>
