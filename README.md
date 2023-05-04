@@ -12,7 +12,7 @@
 <code><img style="object-fit: cover" src="https://img2.freepng.fr/20180816/rcw/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f67bd3d6.3499284915344660385072.jpg" width="30px"></code>
 <code><img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30px"></code>
-<code><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/morihirok/20201005/20201005113654.png" width="30px"></code>
+<code><img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" width="30px"></code>
 
 
 <p> Frontend technologies: HTML, CSS, JavaScript, React <br/>
