@@ -7,7 +7,7 @@
 <h1>Skills</h1>
 
 <h5>My technical skills include:</h5>
-<code><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40px"></code>
 
 <p> Frontend technologies: HTML, CSS, JavaScript, React <br/>
 Backend technologies: Node.js, Express.js <br/>
