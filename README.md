@@ -30,7 +30,7 @@ I hold a Bachelor's degree in Computer Science from Howon university and have co
 
 <h1>Contact</h1>
 
-If you're interested in working with me or have any questions, feel free to reach out to me at  or <a href="https://www.instagram.com/ali042477/">insta</a>.
+If you're interested in working with me or have any questions, feel free to reach out to me at  or <a href="https://www.instagram.com/ali042477/"><img href="https://w7.pngwing.com/pngs/477/609/png-transparent-logo-computer-icons-instagram-logo-instagram-logo-miscellaneous-text-trademark.png"/></a>.
 
 
 
