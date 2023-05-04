@@ -7,7 +7,13 @@
 <h1>Skills</h1>
 
 <h5>My technical skills include:</h5>
+
 <code><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40px"></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="40px"></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg](https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="40px"></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40px"></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40px"></code>
+
 
 <p> Frontend technologies: HTML, CSS, JavaScript, React <br/>
 Backend technologies: Node.js, Express.js <br/>
