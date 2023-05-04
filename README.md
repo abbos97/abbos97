@@ -23,6 +23,15 @@ Backend technologies: Node.js, Express.js <br/>
 Databases: MongoDB <br/>
 DevOps: Git </p>
 
+<h1>Education</h1>
+
+I hold a Bachelor's degree in Computer Science from Howon university and have completed several online courses on web development.
+
+
+<h1>Contact</h1>
+
+If you're interested in working with me or have any questions, feel free to reach out to me at  or <a href="https://www.instagram.com/yourusername/">.
+
 
 
 
