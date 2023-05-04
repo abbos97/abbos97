@@ -30,7 +30,8 @@ I hold a Bachelor's degree in Computer Science from Howon university and have co
 
 <h1>Contact</h1>
 
-If you're interested in working with me or have any questions, feel free to reach out to me at <a href="mailto:yourali97@gmail.com">Click here to email me</a>  or <a href="https://www.instagram.com/ali042477/" target="_blank">
+-  📍 &nbsp; Current location: Seoul, Korea
+-  📍 &nbsp; If you're interested in working with me or have any questions, feel free to reach out to me at <a href="mailto:yourali97@gmail.com">Click here to email me</a>  or <a href="https://www.instagram.com/ali042477/" target="_blank">
   @Max</a>.
 
 
