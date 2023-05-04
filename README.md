@@ -13,7 +13,7 @@
 <code><img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30px"></code>
 <code><img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" width="30px"></code>
-<code><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rQS9VcWG--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zojuy79lo3fn3qdt7g6p.png" width="30px"></code>
+<code><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" width="30px"></code>
 
 
 <p> Frontend technologies: HTML, CSS, JavaScript, React <br/>
