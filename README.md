@@ -1,7 +1,7 @@
 <h1>About Me</h1>
 
 
-### Hello! My name is Max <img src="https://media0.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  and I'm a full-stack web developer with 1 years of experience in building web applications. I'm passionate about creating engaging and interactive web experiences that delight users.
+### Hello! My name is Max <img src="https://media0.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  and I'm a full-stack web developer with 3 years of experience in building web applications. I'm passionate about creating engaging and interactive web experiences that delight users.
 
 
 <h1>Skills</h1>
@@ -13,9 +13,15 @@
 <code><img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="35px"></code>
 <code><img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" width="40px"></code>
-<code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png" width="55px"></code>
+<img src="https://vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="55px">
 <code><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png" width="60px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="50px"></code>
+
+<code>
+  <img src="https://vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="55px">
+  <img src="https://vectorlogo.zone/logos/docker/docker-ar21.svg" width="55px">
+  <img src="https://vectorlogo.zone/logos/pm2io/pm2io-ar21.svg" width="55px">
+</code>
 
 
 <p> Frontend technologies: HTML, CSS, JavaScript, React, Next.js ReactNative, Figma, Material UI, Tailwind CSS, Bootstrap <br/>
