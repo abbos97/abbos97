@@ -18,14 +18,10 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="50px"></code>
 
 
-<p> Frontend technologies: HTML, CSS, JavaScript, React <br/>
-Backend technologies: Node.js, Express.js <br/>
-Databases: MongoDB <br/>
-DevOps: Git </p>
-
-<h1>Education</h1>
-
-I hold a Bachelor's degree in Computer Science from Howon university and have completed several online courses on web development.
+<p> Frontend technologies: HTML, CSS, JavaScript, React, Next.js ReactNative, Figma, Material UI, Tailwind CSS, Bootstrap <br/>
+Backend technologies: Node.js, Express.js, NestJS, GraphQL <br/>
+Databases: MongoDB, MariaDB, MySQL <br/>
+DevOps: Git, Docker, PM2</p>
 
 
 <h1>Contact</h1>
