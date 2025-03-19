@@ -15,6 +15,7 @@ Hello! My name is Max <img src="https://media0.giphy.com/media/hvRJCLFzcasrR4ia7
 <code><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png" width="60px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="50px"></code>
 <code><img src="https://vectorlogo.zone/logos/linux/linux-ar21.svg" width="55px" alt="Linux"></code>
+<code><img src="https://vectorlogo.zone/logos/linux/linux-ar21.svg" width="55px" alt="nextjs"></code>
 
   <code><img src="https://vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="55px"></code>
   <code><img src="https://vectorlogo.zone/logos/docker/docker-ar21.svg" width="55px"></code>
