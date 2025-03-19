@@ -20,10 +20,11 @@ Hello! My name is Max <img src="https://media0.giphy.com/media/hvRJCLFzcasrR4ia7
   <code><img src="https://vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="55px"></code>
   <code><img src="https://vectorlogo.zone/logos/docker/docker-ar21.svg" width="55px"></code>
   <code><img src="https://vectorlogo.zone/logos/pm2io/pm2io-ar21.svg" width="55px"></code>
+  <code><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="55px"></code>
 
 <p> 
-Frontend technologies: HTML, CSS, JavaScript, React, Next.js, React Native, Figma, Material UI, Tailwind CSS, Bootstrap <br/>
-Backend technologies: Node.js, Express.js, NestJS, GraphQL <br/>
+Frontend technologies: HTML, CSS, JavaScript, React, Next.js, React Native, Figma, Material UI, Tailwind CSS, Bootstrap, Qt designer <br/>
+Backend technologies: Node.js, Express.js, NestJS, GraphQL, Python <br/>
 Databases: MongoDB, MariaDB, MySQL <br/>
 DevOps: Git, Docker, PM2, Linux
 </p>
